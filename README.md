@@ -11,4 +11,10 @@ git log --oneline
 
 ## Installing Chakra
 
-1. npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+- `npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion`
+
+## Installing React Icons
+
+- `npm i react-icon@4.7.1`
+
+rafec
