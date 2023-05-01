@@ -7,6 +7,7 @@
 
 git init
 git commit ...
+git log --oneline
 
 ## Installing Chakra
 
