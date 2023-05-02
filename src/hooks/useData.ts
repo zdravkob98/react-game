@@ -39,7 +39,6 @@ const useData = <T>(
     },
     dependencies ? [...dependencies] : []
   );
-  console.log(dependencies ? [...dependencies] : []);
 
   return { data, error, loading };
 };
