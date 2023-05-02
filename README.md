@@ -4,6 +4,7 @@
 2. `cd game-hub`
 3. `npm i` or `npm install`
 4. `npm run dev`
+5. `npm run build`
 
 git init
 git commit ...
