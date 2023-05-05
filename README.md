@@ -18,4 +18,9 @@ git log --oneline
 
 - `npm i react-icon@4.7.1`
 
-rafec
+rafce
+
+## Install React Query
+
+`npm i @tanstack/react-query@4.28`
+`npm i @tanstack/react-query-devtools@4.28`
