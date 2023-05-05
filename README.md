@@ -24,3 +24,7 @@ rafce
 
 `npm i @tanstack/react-query@4.28`
 `npm i @tanstack/react-query-devtools@4.28`
+
+## React Infinite Scrolling
+
+`npm i react-infinite-scroll-component@6.1`
