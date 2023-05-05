@@ -28,3 +28,8 @@ rafce
 ## React Infinite Scrolling
 
 `npm i react-infinite-scroll-component@6.1`
+
+## MS
+
+`npm i ms@2.1.3`
+`npm i --save -D @types/ms`
