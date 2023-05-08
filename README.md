@@ -37,3 +37,7 @@ rafce
 ## Install Zustand
 
 `npm i zustand@4.3.7`
+
+## Install react-router-dom
+
+`npm i react-router-dom@6.10.0`
