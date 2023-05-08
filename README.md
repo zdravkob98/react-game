@@ -33,3 +33,7 @@ rafce
 
 `npm i ms@2.1.3`
 `npm i --save -D @types/ms`
+
+## Install Zustand
+
+`npm i zustand@4.3.7`
