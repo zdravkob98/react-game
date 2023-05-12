@@ -1,10 +1,13 @@
-# Setting Up the Project
+# Run Project
+
+1. `npm run build`
+2. `npm run dev`
+
+## Setting Up the Project
 
 1. `npm create vite@4.1.0`
 2. `cd game-hub`
 3. `npm i` or `npm install`
-4. `npm run dev`
-5. `npm run build`
 
 git init
 git commit ...
@@ -18,7 +21,7 @@ git log --oneline
 
 - `npm i react-icon@4.7.1`
 
-rafce
+<!-- rafce -->
 
 ## Install React Query
 
